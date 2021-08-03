@@ -4,7 +4,7 @@
 
 [Data in MicroService ](https://www.notion.so/Data-in-MicroService-6029af70b2854296ac1562e41c26f33e)
 
-[ Communication Between Services](https://www.notion.so/Communication-Between-Services-1121c49a2873426fa2b5aa37e178afe3)
+[Communication Between Services](https://www.notion.so/Communication-Between-Services-1121c49a2873426fa2b5aa37e178afe3)
 
 [Event Bus Overview](https://www.notion.so/Event-Bus-Overview-751be8ecdd4a46c4b18a71b42dcec79e)
 
