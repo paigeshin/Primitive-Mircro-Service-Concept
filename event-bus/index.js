@@ -22,12 +22,12 @@ app.post("/events", (req, res) => {
     console.log(err.message);
   });
   // Query Service - send back event
-  axios.post("http://query-clusterip-srv:4002/events", event).catch((err) => {
+  axios.post("http://query-cluterip-srv:4002/events", event).catch((err) => {
     console.log(err.message);
   });
   // Moderation Service - send back event
   axios
-    .post("http://moderation-clusterip-srv:4003/events", event)
+    .post("http://moderation-cluterip-srv:4003/events", event)
     .catch((err) => {
       console.log(err.message);
     });
