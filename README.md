@@ -34,17 +34,45 @@
 
 [Deployment](https://www.notion.so/Deployment-bb347c7eedb44e48b56786df221ad1f8)
 
-[Networking with Services ](https://www.notion.so/Networking-with-Services-f1cf760c55a5457eb024b446482d3eaf)
-
-[Create NodePort Service ](https://www.notion.so/Create-NodePort-Service-749be0b852f8498fb4d41f8dbdda92b4)
-
 [Create Cluster IP ](https://www.notion.so/Create-Cluster-IP-8a234464a43a43bc8da3a0ba3ee15f31)
 
 [Easy Deployment](https://www.notion.so/Easy-Deployment-d5ffc54aa31e4b88b0f0a4e3356c25d4)
 
+[My workflow](https://www.notion.so/My-workflow-8449e675fdf946bda02f6dbc50287b9b)
+
+### Essential For Development
+
+[Networking with Services ](https://www.notion.so/Networking-with-Services-f1cf760c55a5457eb024b446482d3eaf)
+
+[Create NodePort Service (for dev)](https://www.notion.so/Create-NodePort-Service-for-dev-749be0b852f8498fb4d41f8dbdda92b4)
+
 [Common Workflow](https://www.notion.so/Common-Workflow-99d6cc612ada4e43af0b460146808a5a)
 
-[My workflow](https://www.notion.so/My-workflow-8449e675fdf946bda02f6dbc50287b9b)
+[Until now... kubernetes](https://www.notion.so/Until-now-kubernetes-cf233739a64a4398bd9481586dbf7ab7)
+
+[Load Balancer Services ](https://www.notion.so/Load-Balancer-Services-237326720c4c4c919084d36bfd1659bb)
+
+[Load Balancers and Ingress](https://www.notion.so/Load-Balancers-and-Ingress-46663c5e3623468eb57889ca5db52e79)
+
+[Implement Load Balancer and Ingress Controller](https://www.notion.so/Implement-Load-Balancer-and-Ingress-Controller-dcc4584d96ae4f3392f7b714ab5987ea)
+
+[Writing Ingress Config Files](https://www.notion.so/Writing-Ingress-Config-Files-a3065336cd054a158c01877f839724cf)
+
+[Important Note About Port 80](https://www.notion.so/Important-Note-About-Port-80-b4aecb66f3ad4cecadf0c8ef0f51c6e5)
+
+[Hosts File Tweak](https://www.notion.so/Hosts-File-Tweak-d864b1c595c344d199e4e074d336b2c4)
+
+[React bug fix on Docker Container](https://www.notion.so/React-bug-fix-on-Docker-Container-502b26d1c24a46009ebb325a57e8b722)
+
+[Unique Router](https://www.notion.so/Unique-Router-7ed3c6ead99741f0acef267d1542f93a)
+
+[Define all routes in ingress-srv](https://www.notion.so/Define-all-routes-in-ingress-srv-cb4d8618e3274a7a9010c60baf1b5d7b)
+
+[when Code Update](https://www.notion.so/when-Code-Update-619a53ef9ded402382c424e534208c90)
+
+[Skaffold](https://www.notion.so/Skaffold-3a528a25b7484107b2cb109abea48370)
+
+[What I learned from ms and docker section ](https://www.notion.so/What-I-learned-from-ms-and-docker-section-fb2dcae16da4423884ba06c4f2c8d0e6)
 
 # Four Core Services and One Event Bus
 
